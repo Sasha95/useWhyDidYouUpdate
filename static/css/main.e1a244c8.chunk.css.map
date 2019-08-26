@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,SACI,cAAe,CACf,eACJ,CAEA,WACI,iBACJ","file":"main.e1a244c8.chunk.css","sourcesContent":[".counter{\r\n    font-size: 80px;\r\n    font-weight: bold\r\n}\r\n\r\n.container{\r\n    text-align: center;\r\n}"]}
